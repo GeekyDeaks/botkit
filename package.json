@@ -1,6 +1,6 @@
 {
-  "name": "botkit",
-  "version": "0.7.6",
+  "name": "botkit-legacy",
+  "version": "0.7.7",
   "description": "Building blocks for Building Bots",
   "main": "lib/Botkit.js",
   "types": "lib/Botkit.d.ts",
@@ -64,10 +64,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/howdyai/botkit.git"
+    "url": "https://github.com/GeekyDeaks/botkit-legacy.git"
   },
   "bugs": {
-    "url": "https://github.com/howdyai/botkit/issues"
+    "url": "https://github.com/GeekyDeaks/botkit-legacy/issues"
   },
   "homepage": "http://howdy.ai/botkit",
   "keywords": [
