@@ -30,7 +30,7 @@
     "debug": "^4.1.0",
     "email-addresses": "^3.0.2",
     "express": "^4.16.4",
-    "googleapis": "^44.0.0",
+    "googleapis": "^62.0.0",
     "https-proxy-agent": "^2.2.4",
     "jfs": "^0.3.0",
     "localtunnel": "^2.0.0",
